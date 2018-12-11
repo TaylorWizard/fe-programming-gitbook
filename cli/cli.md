@@ -1,8 +1,18 @@
 ## Commander Module
 
+- process.argv
+
+  > argv[0]: process.exexPath, 返回启动程序的可执行文件的绝对路径
+  >
+  > argv[1]: 当前执行的javascript文件的路径
+  >
+  > argv[2]: 剩余的元素都额外的命令行参数
+
 > 提供了用户命令行输入各参数解析的强大功能, 可以帮助我们简化命令行开发
 >
 > [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)](https://segmentfault.com/a/1190000006190814)
+>
+> [手把手带你撸一个脚手架](https://juejin.im/post/5bed6ff2f265da61137ed948)
 
 #### API
 
